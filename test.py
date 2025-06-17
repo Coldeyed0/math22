@@ -60,7 +60,7 @@ def show_notes():
         - Technique that can solve most of the complicated integral problems (in Math 21).
         - Used when the integral does not have a direct formula and is already simplified.
         """)
-        st.write("U-sub is a powerful technique, but the challenge lies in figuring out which expression to substitute with $u$. We can never be certain that our choice of $u$ is correct, so here are the following tips.")
+        st.write("U-subbb is a powerful technique, but the challenge lies in figuring out which expression to substitute with $u$. We can never be certain that our choice of $u$ is correct, so here are the following tips.")
         
         st.write('')
         st.write("**Good candidates for u-sub:**")
